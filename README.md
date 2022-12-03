@@ -1,3 +1,3 @@
-# inferno
+# Exploit for HTB Inferno
 
-Exploit for Inferno from HTB
+
